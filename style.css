@@ -43,3 +43,10 @@ header {
        padding: 0 20px;
        max-width: 900px;
    }
+   @media screen and (min-width:480px) {
+    .submenu {
+        width: 100%;
+        position: relative;
+    }
+  
+  } 
